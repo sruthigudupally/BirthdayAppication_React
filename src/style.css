@@ -1,0 +1,51 @@
+#card{
+    /* width:300px;
+    height: 400px; */
+    border: 1px solid rgba(0, 0, 0, 0.332);
+    background-color: rgba(0, 255, 255, 0.44);
+}
+#parent{
+    border: solid rgb(221, 31, 94);
+    width: 500px;
+    height: 700px;
+}
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+#name{
+    margin-left: 50px;
+    /* border: solid red; */
+    margin-top: -20px;
+    font-size: 20px;
+    color: rgb(221, 31, 94);
+}
+#age{
+    margin-left: 100px;
+    font-size: 15px;
+}
+span{
+    margin-top: -30px;
+}
+#clear{
+    padding: 15px 120px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: rgb(221, 31, 94);
+    border-radius: 4px;
+}
+#h11{
+    color:rgb(221, 31, 94) ;
+}
+#birthday{
+    border: solid;
+    width: 300px;
+    height: 200px;
+    background-color: cadetblue;
+    margin-top: 200px;
+}
+.birthdays{
+    margin-top: 30px;
+    padding: 8px 20px;
+}
