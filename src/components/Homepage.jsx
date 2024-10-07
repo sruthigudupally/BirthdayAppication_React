@@ -11,6 +11,8 @@ const Homepage = () => {
         api.then(x=>x.json()).then(val=>{
             setState(val)
         })
+        .catch(err=>console.log("error")
+        )
         console.log(state);
         
         

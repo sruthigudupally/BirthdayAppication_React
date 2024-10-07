@@ -48,4 +48,8 @@ span{
 .birthdays{
     margin-top: 30px;
     padding: 8px 20px;
+    
+}
+body{
+    background-color: rgba(216, 112, 147, 0.504);
 }
